@@ -14,9 +14,20 @@ let valueInNumber = Number(score)
 let isLoggedIn = "hgg"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
 
 // 1 => true; 0 => false
 // "" => false
 // "hgg" => true
 
+
+// *************** Opertaions ***********************************
+
+
+let str1 = "hell"
+let str2 = "goo"
+
+let str3 = str1+str2
+// console.log(str3);
+
+console.log(+true);
